@@ -37,3 +37,12 @@
 
    Their codes are updated and synchronised for both branches.
    The diagram helps in following the commit history in the various branches.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+   Pros:
+   1. Don't have to resolve all issues manually (saves time)
+   2. Ensures a consistent logic is always applied
+
+   Cons:
+   1. Some conflicts cannot be resolved by machines
