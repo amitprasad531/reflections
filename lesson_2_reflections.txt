@@ -31,3 +31,9 @@
    The diagrams enable us to see the parent-child relationships of each of the branches
    as well as their relationships to other branches. Therefore, we know what to expect
    when requesting git to reveal the history of commits.
+
+6. What is the result of merging two branches together? 
+   Why do we represent it in the diagram the way we do?
+
+   Their codes are updated and synchronised for both branches.
+   The diagram helps in following the commit history in the various branches.
