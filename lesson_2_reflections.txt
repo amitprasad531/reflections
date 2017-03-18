@@ -15,3 +15,12 @@
 
 	Since files that are linked to each other are stored in the staging area, any logical
 	change will only require committing those files which are likely to be affected.
+
+4. What are some situations when branches would be helpful in keeping your history organized? 
+   How would branches help?
+
+   Branches would be helpful in developing experimental aspects of the app [including language
+   or game levels] that could be added later to the main branch. 
+
+   Branches will help in allowing different aspects of the app to be developed separately and
+   combined only when required.
