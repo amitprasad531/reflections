@@ -11,4 +11,7 @@
 
 	The staging area offers a container to batch files that need to be committed together. 
 
+3. How can you use the staging area to make sure you have one commit per logical change?
 
+	Since files that are linked to each other are stored in the staging area, any logical
+	change will only require committing those files which are likely to be affected.
