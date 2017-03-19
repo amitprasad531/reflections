@@ -1,6 +1,9 @@
-When would you want to use a remote repository rather than keeping all your work local?
-  A remote repository can be helpful with respect to:
-  a. Sharing the code publicly. This [open source] method has the following advantages:
+1. When would you want to use a remote repository rather than keeping all your work local?
+  	A remote repository can be helpful with respect to:
+  	a. Sharing the code publicly. This [open source] method has the following advantages:
       i. A global community of programmers can enhance your code and improve the efficiency of your app;
       ii. Programmers can build on the same code for other interesting initiatives.
-  b. Sharing the code privately with other programmers in the project.
+  	b. Sharing the code privately with other programmers in the project.
+
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with   your remote repository?
+	To ensure that we commit only we retain only finished work. I'm not sure there is another reason.
