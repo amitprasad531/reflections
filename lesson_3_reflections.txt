@@ -28,3 +28,12 @@
    a. complex projects require the features of Git/GitHub which provide an excellent memory of the changes;
    b. collaborations with hundreds of people will require a superior organizational structure such as in
    GitHub
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does
+   each approach have?
+   At this stage with limited experience of GitHub I'm not sure I know the answer. But I guess some reasons to
+   work on a branch instead of a master would be when:
+   a. you are experimenting with a certain feature of your app;
+   b. there are a lot of people working on a larger project, so certain elements are better addressed in a branch
+   before they are merged back into the master.
+
