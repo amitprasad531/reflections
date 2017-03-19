@@ -16,3 +16,15 @@
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
    This is helpful in case there is a period of time when internet access is unavailable. The
    locally stored state can then be pushed on to GitHub once internet access is available.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+   Dropbox can be an alternative without the extended features of Git/GitHub.
+   What would be easier:
+   a. the learning curve for myself;
+   b. collaborating with multiple people who may not be expected to possess IT skills e.g. using the
+   terminal;
+   c. some projects would be easier to collaborate on such as editing text files.
+   What would be harder:
+   a. complex projects require the features of Git/GitHub which provide an excellent memory of the changes;
+   b. collaborations with hundreds of people will require a superior organizational structure such as in
+   GitHub
