@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  A remote repository can be helpful with respect to:
+  a. Sharing the code publicly. This [open source] method has the following advantages:
+      i. A global community of programmers can enhance your code and improve the efficiency of your app;
+      ii. Programmers can build on the same code for other interesting initiatives.
+  b. Sharing the code privately with other programmers in the project.
