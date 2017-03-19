@@ -12,4 +12,7 @@
    A branch is used to split up work on a single repository.
    A fork is used to clone all elements from one GitHub repository to another.
    A clone can either copy repositories within a local environment or between a GitHub account and a local environment.
-   
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+   This is helpful in case there is a period of time when internet access is unavailable. The
+   locally stored state can then be pushed on to GitHub once internet access is available.
